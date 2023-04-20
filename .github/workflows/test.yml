@@ -1,0 +1,3 @@
+run: javascript script.js
+  env:
+    YOUR_SECRET: ${{ secrets.YOUR_SECRET }}
